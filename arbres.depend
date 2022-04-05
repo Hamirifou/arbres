@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1647867288 source:c:\users\elmeh\onedrive\bureau\corrige\corrige\arbres\file.c
+	"file.h"
+	<stddef.h>
+
+1647867281 c:\users\elmeh\onedrive\bureau\corrige\corrige\arbres\file.h
+	"list.h"
+
+1647353187 c:\users\elmeh\onedrive\bureau\corrige\corrige\arbres\list.h
+	<stdbool.h>
+
+1647353193 source:c:\users\elmeh\onedrive\bureau\corrige\corrige\arbres\list.c
+	"list.h"
+	<math.h>
+	<stdio.h>
+	<stddef.h>
+	<stdbool.h>
+
+1647330212 source:c:\users\elmeh\onedrive\bureau\corrige\corrige\arbres\personne.c
+	"personne.h"
+	<string.h>
+
+1647330212 c:\users\elmeh\onedrive\bureau\corrige\corrige\arbres\personne.h
+
+1647867159 source:c:\users\elmeh\onedrive\bureau\corrige\corrige\arbres\pile.c
+	"piles.h"
+	<stddef.h>
+
+1647355911 c:\users\elmeh\onedrive\bureau\corrige\corrige\arbres\piles.h
+	"list.h"
+
+1649147937 source:c:\users\elmeh\onedrive\bureau\corrige\corrige\arbres\listpersonne.c
+	<stdio.h>
+	"personne.h"
+	"arbre.h"
+	<stdbool.h>
+
+1649063816 c:\users\elmeh\onedrive\bureau\corrige\corrige\arbres\arbre.h
+
+1649111030 source:c:\users\elmeh\onedrive\bureau\corrige\corrige\arbres\arbres.c
+	"arbre.h"
+	"list.h"
+	<stddef.h>
+

@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1646742465 source:c:\users\kkkk\desktop\prepa\langage c\corrige\list\list.c
+	"list.h"
+	<math.h>
+	<stdio.h>
+	<stddef.h>
+	<stdbool.h>
+
+1646139774 c:\users\kkkk\desktop\prepa\langage c\corrige\list\list.h
+	<stdbool.h>
+
+1646742465 source:c:\users\kkkk\desktop\prepa\langage c\corrige\list\main.cpp
+	"list.h"
+	"list.c"
+	<stdio.h>
+	<iostream>
+
+1646742465 c:\users\kkkk\desktop\prepa\langage c\corrige\list\list.c
+	"list.h"
+	<math.h>
+	<stdio.h>
+	<stddef.h>
+	<stdbool.h>
+
+1646735961 source:c:\users\elmeh\onedrive\bureau\linked lists\linked_lists\list.c
+	"list.h"
+	<math.h>
+	<stdio.h>
+	<stddef.h>
+	<stdbool.h>
+
+1646294444 c:\users\elmeh\onedrive\bureau\linked lists\linked_lists\list.h
+	<stdbool.h>
+
+1646735093 source:c:\users\elmeh\onedrive\bureau\linked lists\linked_lists\main.cpp
+	"list.h"
+	"list.c"
+	<stdio.h>
+	<iostream>
+
+1646736185 c:\users\elmeh\onedrive\bureau\linked lists\linked_lists\list.c
+	"list.h"
+	<math.h>
+	<stdio.h>
+	<stddef.h>
+	<stdbool.h>
+
+1646750741 source:c:\users\kkkk\desktop\prepa\langage c\corrige\personne\list.c
+	"list.h"
+	<math.h>
+	<stdio.h>
+	<stddef.h>
+	<stdbool.h>
+
+1646751038 c:\users\kkkk\desktop\prepa\langage c\corrige\personne\list.h
+	<stdbool.h>
+
+1646746910 source:c:\users\kkkk\desktop\prepa\langage c\corrige\personne\listpersonne.c
+	<stdio.h>
+	"list.h"
+	"personne.h"
+
+1646750951 c:\users\kkkk\desktop\prepa\langage c\corrige\personne\personne.h
+
+1646749596 source:c:\users\kkkk\desktop\prepa\langage c\corrige\personne\personne.c
+	"personne.h"
+	<string.h>
+
+1647278022 source:c:\users\elmeh\onedrive\documents\workspace\c\linked_list\list.c
+	"list.h"
+	<math.h>
+	<stdio.h>
+	<stddef.h>
+	<stdbool.h>
+
+1647275949 c:\users\elmeh\onedrive\documents\workspace\c\linked_list\list.h
+	<stdbool.h>
+
+1647275959 source:c:\users\elmeh\onedrive\documents\workspace\c\linked_list\personne.c
+	"personne.h"
+	<string.h>
+
+1647275961 c:\users\elmeh\onedrive\documents\workspace\c\linked_list\personne.h
+
+1647278606 source:c:\users\elmeh\onedrive\documents\workspace\c\linked_list\listpersonne.c
+	<stdio.h>
+	"list.h"
+	"personne.h"
+	<stdbool.h>
+
+1647330212 source:c:\users\kkkk\desktop\prepa\langage c\corrige\linked_lists\list.c
+	"list.h"
+	<math.h>
+	<stdio.h>
+	<stddef.h>
+	<stdbool.h>
+
+1647330212 c:\users\kkkk\desktop\prepa\langage c\corrige\linked_lists\list.h
+	<stdbool.h>
+
+1647330212 source:c:\users\kkkk\desktop\prepa\langage c\corrige\linked_lists\listpersonne.c
+	<stdio.h>
+	"list.h"
+	"personne.h"
+	<stdbool.h>
+
+1647330212 c:\users\kkkk\desktop\prepa\langage c\corrige\linked_lists\personne.h
+
+1647330212 source:c:\users\kkkk\desktop\prepa\langage c\corrige\linked_lists\personne.c
+	"personne.h"
+	<string.h>
+

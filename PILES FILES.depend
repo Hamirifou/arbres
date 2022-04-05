@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1647353193 source:c:\users\kkkk\desktop\prepa\langage c\corrige\piles and files\list.c
+	"list.h"
+	<math.h>
+	<stdio.h>
+	<stddef.h>
+	<stdbool.h>
+
+1647353187 c:\users\kkkk\desktop\prepa\langage c\corrige\piles and files\list.h
+	<stdbool.h>
+
+1647330212 source:c:\users\kkkk\desktop\prepa\langage c\corrige\piles and files\personne.c
+	"personne.h"
+	<string.h>
+
+1647330212 c:\users\kkkk\desktop\prepa\langage c\corrige\piles and files\personne.h
+
+1647865731 source:c:\users\kkkk\desktop\prepa\langage c\corrige\piles and files\listpersonne.c
+	<stdio.h>
+	"personne.h"
+	<stdbool.h>
+	"piles.h"
+
+1647355911 c:\users\kkkk\desktop\prepa\langage c\corrige\piles and files\piles.h
+	"list.h"
+
+1647866142 source:c:\users\kkkk\desktop\prepa\langage c\corrige\piles and files\pile.c
+	"piles.h"
+	<stddef.h>
+
+1647352810 c:\users\kkkk\desktop\prepa\langage c\corrige\piles and files\list.c
+	"list.h"
+	<math.h>
+	<stdio.h>
+	<stddef.h>
+	<stdbool.h>
+
+1647353193 source:c:\users\kkkk\desktop\prepa\langage c\corrige\files\list.c
+	"list.h"
+	<math.h>
+	<stdio.h>
+	<stddef.h>
+	<stdbool.h>
+
+1647353187 c:\users\kkkk\desktop\prepa\langage c\corrige\files\list.h
+	<stdbool.h>
+
+1647330212 source:c:\users\kkkk\desktop\prepa\langage c\corrige\files\personne.c
+	"personne.h"
+	<string.h>
+
+1647330212 c:\users\kkkk\desktop\prepa\langage c\corrige\files\personne.h
+
+1647867159 source:c:\users\kkkk\desktop\prepa\langage c\corrige\files\pile.c
+	"piles.h"
+	<stddef.h>
+
+1647355911 c:\users\kkkk\desktop\prepa\langage c\corrige\files\piles.h
+	"list.h"
+
+1647867288 source:c:\users\kkkk\desktop\prepa\langage c\corrige\files\file.c
+	"file.h"
+	<stddef.h>
+
+1647867281 c:\users\kkkk\desktop\prepa\langage c\corrige\files\file.h
+	"list.h"
+
